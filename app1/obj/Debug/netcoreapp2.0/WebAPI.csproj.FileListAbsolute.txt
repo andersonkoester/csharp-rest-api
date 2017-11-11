@@ -1,0 +1,11 @@
+E:\_workspace\csharp\app1\app1\app1\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+E:\_workspace\csharp\app1\app1\app1\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+E:\_workspace\csharp\app1\app1\app1\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+E:\_workspace\csharp\app1\app1\app1\bin\Debug\netcoreapp2.0\WebAPI.dll
+E:\_workspace\csharp\app1\app1\app1\bin\Debug\netcoreapp2.0\WebAPI.pdb
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.dll
+E:\_workspace\csharp\app1\app1\app1\obj\Debug\netcoreapp2.0\WebAPI.pdb
